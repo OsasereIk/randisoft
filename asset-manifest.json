@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b4258762.css",
+    "main.js": "./static/js/main.c55c2adc.js",
+    "static/js/787.a3a7e8a5.chunk.js": "./static/js/787.a3a7e8a5.chunk.js",
+    "static/media/prediction-trading.png": "./static/media/prediction-trading.8246ae1a571fbf72d837.png",
+    "static/media/ml_solution.svg": "./static/media/ml_solution.ef6ceaf3771d69c300432e43d21a24d3.svg",
+    "static/media/onyx4.svg": "./static/media/onyx4.21e51fdd7f93a1e8c2051ffe531b377a.svg",
+    "static/media/blocks.svg": "./static/media/blocks.815154b54816273e51a36f1bc6fb3a3f.svg",
+    "static/media/unimelb.png": "./static/media/unimelb.8a3af84687b77d680af9.png",
+    "static/media/logooo.png": "./static/media/logooo.6b9be80b0df5e6b2140d.png",
+    "static/media/expedo2.png": "./static/media/expedo2.258efb1ec945b11a6a7d.png",
+    "static/media/equinox.png": "./static/media/equinox.5fd6acfca760775ac800.png",
+    "static/media/slide6.jpg": "./static/media/slide6.1e3cb878bb3652956105.jpg",
+    "static/media/slide2.jpg": "./static/media/slide2.53f9984e3e9cb7259c27.jpg",
+    "static/media/designThinking.svg": "./static/media/designThinking.b49699784308aac2c7ceeab16dddb175.svg",
+    "static/media/slide7.jpg": "./static/media/slide7.c9b53a32cd8a9f328db6.jpg",
+    "static/media/slide9.jpg": "./static/media/slide9.7f63a3b160580d7d5f8d.jpg",
+    "static/media/slide18.jpg": "./static/media/slide18.ff54a09cc0acf5b7cbc4.jpg",
+    "static/media/slide8.jpg": "./static/media/slide8.7952a8cbdc2ff48b0760.jpg",
+    "static/media/slide4.jpg": "./static/media/slide4.995554079cd657d488a3.jpg",
+    "static/media/slide3.jpg": "./static/media/slide3.3e643450021daac7f689.jpg",
+    "static/media/slide5.jpg": "./static/media/slide5.b0a215dd6e846c64c93f.jpg",
+    "static/media/slide1.jpg": "./static/media/slide1.7e27f95c18b7d78086aa.jpg",
+    "index.html": "./index.html",
+    "main.b4258762.css.map": "./static/css/main.b4258762.css.map",
+    "main.c55c2adc.js.map": "./static/js/main.c55c2adc.js.map",
+    "787.a3a7e8a5.chunk.js.map": "./static/js/787.a3a7e8a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4258762.css",
+    "static/js/main.c55c2adc.js"
+  ]
+}
